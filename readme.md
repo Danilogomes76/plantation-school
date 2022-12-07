@@ -1,7 +1,7 @@
 <div>
-    <img src='https://img.shields.io/github/issues/Danilogomes76/books_app'/>
-    <img src='https://img.shields.io/github/forks/Danilogomes76/books_app'/>
-    <img src='https://img.shields.io/github/stars/Danilogomes76/books_app'/>
+    <img src='https://img.shields.io/github/issues/Danilogomes76/plantation-school'/>
+    <img src='https://img.shields.io/github/forks/Danilogomes76/plantation-school'/>
+    <img src='https://img.shields.io/github/stars/Danilogomes76/plantation-school'/>
 </div>
 
 <h1>Plantation School - Website Template</h1>
