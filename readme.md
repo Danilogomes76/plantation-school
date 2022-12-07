@@ -8,7 +8,7 @@
 
 <h2 align='center'></h2>
 <br>
-<h3>Projeto criado com intuito de eu colocar em código um template que fiz com Figma.</h3>
+<h3>Projeto criado com intuito de colocar em código um template que fiz com Figma.</h3>
 <br>
 
 <h2>
